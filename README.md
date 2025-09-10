@@ -5,4 +5,3 @@ After reading one or more chapters, I came up with practical cases to reinforce 
 
 Additionally, this repository contains my personal notebooks following tutorials from:
 - [PyTorch Tutorials](https://pytorch.org/tutorials/)
-- [The Hugging Face Course](https://huggingface.co/course)
